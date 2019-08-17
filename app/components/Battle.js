@@ -25,7 +25,7 @@ function Instructions () {
   )
 }
 
-export default class battle extends React.Component {
+export default class Battle extends React.Component {
   render() {
     return (
       <React.Fragment>
